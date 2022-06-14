@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer who has been building beautiful iOS apps for almost a decade. I am also passionate about helping other engineers and shaping a healthier engineering culture.
+I'm a software engineer who has been building beautiful iOS apps since 2011. I am also passionate about helping other engineers and shaping a healthier engineering culture.
 
 * 🧑‍💻 I code in Swift by day, Python by night, and JS on weekend.
 * 📚 I like reading books. [Here is my booklist](bit.ly/chrisxu-booklist).
